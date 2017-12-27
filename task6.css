@@ -60,6 +60,7 @@ header img {
     font-size: 1.02rem;
     font-family: HiraginoSansGB;
     z-index: 2;
+    display: block;
 }
 .wrap-content {
     padding: 0;
